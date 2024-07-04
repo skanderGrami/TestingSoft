@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestingSoft_Backend.props" />
+</Project>

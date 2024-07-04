@@ -1,0 +1,18 @@
+[
+  {
+    "Timestamp": "2024-07-04T11:18:57.6256088+01:00",
+    "ActionDescription": "Navigated to ''"
+  },
+  {
+    "Timestamp": "2024-07-04T11:19:01.79881+01:00",
+    "ActionDescription": "Entered text 'skander@gmail.com' in element identified by 'email'"
+  },
+  {
+    "Timestamp": "2024-07-04T11:19:06.0487397+01:00",
+    "ActionDescription": "Entered text 'testpass' in element identified by 'pass'"
+  },
+  {
+    "Timestamp": "2024-07-04T11:19:10.2113665+01:00",
+    "ActionDescription": "Clicked button with tag value 'login'"
+  }
+]

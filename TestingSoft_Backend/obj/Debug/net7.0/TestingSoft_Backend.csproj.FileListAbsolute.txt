@@ -1,0 +1,783 @@
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\appsettings.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.exe
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.deps.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.runtimeconfig.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.pdb
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.AssemblyReference.cache
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.AssemblyInfoInputs.cache
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.AssemblyInfo.cs
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.CoreCompileInputs.cache
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.TestingSoft_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.TestingSoft_Backend.props
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestingSoft_Backend.props
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestingSoft_Backend.props
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\scopedcss\bundle\TestingSoft_Backend.styles.css
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.CopyComplete
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\refint\TestingSoft_Backend.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.pdb
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.genruntimeconfig.cache
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\ref\TestingSoft_Backend.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Humanizer.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Build.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Common.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.engine.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.engine.api.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Platform.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Platform.MSBuild.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.framework.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\WebDriver.Support.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\WebDriver.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\BoDi.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Gherkin.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x86\leptonica-1.82.0.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x86\tesseract50.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x64\leptonica-1.82.0.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x64\tesseract50.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Tesseract.dll
+E:\Stage PFE TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Bogus.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NUnit3.TestAdapter.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NUnit3.TestAdapter.pdb
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.engine.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.engine.api.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\appsettings.Development.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\appsettings.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\linux\selenium-manager
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\macos\selenium-manager
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\selenium-manager\windows\selenium-manager.exe
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x86\leptonica-1.82.0.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x86\tesseract50.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x64\leptonica-1.82.0.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\x64\tesseract50.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.exe
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.deps.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.runtimeconfig.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TestingSoft_Backend.pdb
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Azure.Core.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\BCrypt.Net-Next.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\BoDi.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Bogus.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Gherkin.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Humanizer.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.ApplicationInsights.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Build.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DotNet.InternalAbstractions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.Telemetry.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Platform.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Testing.Platform.MSBuild.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Common.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Configuration.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Frameworks.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.LibraryModel.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Packaging.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.ProjectModel.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Protocol.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\NuGet.Versioning.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nunit.framework.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\WebDriver.Support.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\WebDriver.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\TechTalk.SpecFlow.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\SpecFlow.Internal.Json.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Convention.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Hosting.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.Runtime.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Composition.TypedParts.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\System.Xml.XPath.XmlDocument.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Tesseract.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\af\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ar\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\az\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\bg\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\da\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\el\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fa\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\he\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hr\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hu\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\hy\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\id\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\is\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ku\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\lv\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\mt\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nb\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\nl\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ro\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sk\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sl\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sr\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\sv\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uk\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\vi\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.Testing.Platform.MSBuild.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.AssemblyReference.cache
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.AssemblyInfoInputs.cache
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.AssemblyInfo.cs
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.CoreCompileInputs.cache
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.MvcApplicationPartsAssemblyInfo.cs
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.MvcApplicationPartsAssemblyInfo.cache
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.TestingSoft_Backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.build.TestingSoft_Backend.props
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TestingSoft_Backend.props
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TestingSoft_Backend.props
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\scopedcss\bundle\TestingSoft_Backend.styles.css
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.csproj.CopyComplete
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\refint\TestingSoft_Backend.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.pdb
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\TestingSoft_Backend.genruntimeconfig.cache
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\obj\Debug\net7.0\ref\TestingSoft_Backend.dll
+E:\StagePFE_TriWeb\PlatformProject\TestingSoft_Backend\TestingSoft_Backend\bin\Debug\net7.0\ReportsVideo\testCase9a238131-3bb4-15e5-e7e0-4178679cf767.json
