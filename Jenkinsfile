@@ -1,6 +1,10 @@
 pipeline {
     agent any
 
+    environment {
+        PROJECT_PATH = 'E:/StagePFE_TriWeb/PlatformProject/TestingSoft_Backend/TestingSoft_Backend'
+    }
+
     stages {
         stage('Git Checkout') {
             steps {
