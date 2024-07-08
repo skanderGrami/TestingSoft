@@ -2,7 +2,6 @@ pipeline {
     agent any
 
     environment {
-      
     }
 
     stages {
@@ -13,6 +12,7 @@ pipeline {
                 url: 'https://github.com/skanderGrami/TestingSoft.git'
             }
         }
+
         stage('Prepare Environment') {
             steps {
                 script {
