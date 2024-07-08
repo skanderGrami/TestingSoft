@@ -12,6 +12,7 @@ pipeline {
                 git branch: 'main',
                 url: 'https://github.com/skanderGrami/TestingSoft.git'
             }
+        }
         stage('Prepare Environment') {
             steps {
                 script {
