@@ -9,48 +9,29 @@ pipeline {
             }
         }
         
-        stage('Build') {
+       stage('Build') {
             steps {
-                // Example build step, replace with your build commands
-                sh 'dotnet build'
+                bat 'dotnet restore' // Restauration des packages .NET Core
+                bat 'dotnet build'   // Construction du projet
             }
         }
-        
+
         stage('Test') {
             steps {
-                // Example test step, replace with your test commands
-                sh 'dotnet test'
-            }
-            
-            post {
-                always {
-                    // Archive test results
-                    junit '**/TestResult.xml'
-                }
+                bat 'dotnet test --filter Category!=ExcludeFromTests' // Exécute les tests NUnit, exclut les tests marqués Category: ExcludeFromTests
             }
         }
-        
+
         stage('Generate Reports') {
             steps {
-                // Example step to generate test reports
-                // Replace this with your report generation commands
-                sh 'dotnet report-generator'
-            }
-            
-            post {
-                success {
-                    // Publish the generated reports
-                    archiveArtifacts artifacts: 'reports/**/*.html', allowEmptyArchive: true
-                }
+                // Éventuellement, générer des rapports ici
             }
         }
     }
-    
-    // Post pipeline cleanup
+
     post {
         always {
-            // Delete 'results' folder to clean up
-            cleanWs()
+            junit '**/TestResult.xml' // Spécifiez l'emplacement de vos résultats de test NUnit
         }
     }
 }
