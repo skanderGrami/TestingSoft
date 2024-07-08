@@ -9,7 +9,7 @@ pipeline {
             }
         }
         
-       stage('Build') {
+        stage('Build') {
             steps {
                 bat 'dotnet restore' // Restauration des packages .NET Core
                 bat 'dotnet build'   // Construction du projet
