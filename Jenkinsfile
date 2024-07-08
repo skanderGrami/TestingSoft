@@ -2,10 +2,16 @@ pipeline {
     agent any
 
     environment {
-        PROJECT_PATH = 'E:/StagePFE_TriWeb/PlatformProject/TestingSoft_Backend/TestingSoft_Backend'
+      
     }
 
     stages {
+        stage('Git Checkout') {
+            steps {
+                echo 'Pulling ... '
+                git branch: 'main',
+                url: 'https://github.com/skanderGrami/TestingSoft.git'
+            }
         stage('Prepare Environment') {
             steps {
                 script {
