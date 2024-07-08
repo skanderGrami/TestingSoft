@@ -5,7 +5,7 @@ pipeline {
         stage('Checkout') {
             steps {
                 // Checkout the repository
-                git 'https://github.com/skanderGrami/TestingSoft.git'
+                git branch: 'main', url: 'https://github.com/skanderGrami/TestingSoft.git'
             }
         }
         
