@@ -1,9 +1,5 @@
 pipeline {
     agent any
-
-    environment {
-    }
-
     stages {
         stage('Git Checkout') {
             steps {
