@@ -25,6 +25,7 @@ pipeline {
         stage('Generate Reports') {
             steps {
                 // Éventuellement, générer des rapports ici
+                 sh 'dotnet report-generator'
             }
         }
     }
